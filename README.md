@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Vamshi 👋
 
-<!--
-**g-vamshi-x35/g-vamshi-x35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 BCA undergrad building toward a career in **Cloud Computing, Automation, DevOps & AI Infrastructure**
 
-Here are some ideas to get you started:
+🚀 Learning to build, deploy, and automate systems end-to-end — from containers to CI/CD to cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tech I'm working with:**
+- **Cloud:** AWS, GCP
+- **DevOps:** Docker, Kubernetes, CI/CD, GitHub Actions
+- **Languages:** Python, Bash
+- **OS:** Linux
+- **Exploring:** MLOps, LLM deployment, Infrastructure as Code (Terraform)
+
+📌 **Right now:**
+- Building hands-on projects — containerized apps, automated pipelines, cloud deployments
+- Open to internships and entry-level roles in Cloud / DevOps / AI Infra
+
+📫 **Connect:**
+- LinkedIn: [linkedin.com/in/g-wamsi-350x](https://www.linkedin.com/in/g-wamsi-350x)
+- Email: gedalwamshi@gmail.com
+---
