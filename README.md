@@ -5,11 +5,11 @@
 🚀 Learning to build, deploy, and automate systems end-to-end — from containers to CI/CD to cloud
 
 🔧 **Tech I'm working with:**
-- **Cloud:** AWS, GCP
+- **Cloud:** AWS
 - **DevOps:** Docker, Kubernetes, CI/CD, GitHub Actions
-- **Languages:** Python, Bash
+- **Languages:** Python
 - **OS:** Linux
-- **Exploring:** MLOps, LLM deployment, Infrastructure as Code (Terraform)
+- **Exploring:** Infrastructure as Code (Terraform)
 
 📌 **Right now:**
 - Building hands-on projects — containerized apps, automated pipelines, cloud deployments
