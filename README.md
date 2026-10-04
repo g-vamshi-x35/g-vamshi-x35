@@ -6,9 +6,9 @@
 
 🔧 **Tech I'm working with:**
 - **Cloud:** AWS
-- **DevOps:** Docker, Kubernetes, CI/CD, GitHub Actions
-- **Languages:** Python
-- **OS:** Linux
+- **DevOps:** Docker, Kubernetes, CI/CD, Git/GitHub Actions
+- **OS:** Linux, Network
+- **Languages:** Python, (front-end) , C++, C, java , (supabase)
 - **Exploring:** Infrastructure as Code (Terraform)
 
 📌 **Right now:**
